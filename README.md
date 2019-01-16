@@ -7,7 +7,9 @@ The following project consists of an Image Classifier Application which takes in
 The application consists of the following files:
 
 (1) train.py - will train a new network on a dataset and save the model as a checkpoint
+
 (2) test.py -  uses a trained network to predict the class for an input image. 
+
 (3) Image-classifier.ipynb / Image-classifier.html - documents a step by step approch of the entire data cleaning, processing, training, tuning and testing steps. 
 
 The application allows the user to set:
